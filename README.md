@@ -16,6 +16,5 @@ Recipe Ideas is a React application where users can search for recipes by enteri
 - TheMealDB API
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/RecipeIdeas.git
+1. Clone the repository
+  
